@@ -9,7 +9,7 @@ namespace TextEditor
     class Program
     {
         static long LUKIT = DateTimeOffset.Now.ToUnixTimeSeconds();//Last User Key Input Timestamp
-        static bool StandbyOn = false;
+        static bool StandbyOn = false;//TestComment
         static string WindowName = "Strawberry!";
         static void Main()
         {
