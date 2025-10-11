@@ -1,4 +1,4 @@
-# TextEditor
+# Strawberry!
 A terminal text editor made to be feature rich and simple.
 
 Currently includes:
