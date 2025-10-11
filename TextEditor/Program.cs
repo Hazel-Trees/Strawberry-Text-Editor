@@ -10,7 +10,7 @@ namespace TextEditor
     {
         static long LUKIT = DateTimeOffset.Now.ToUnixTimeSeconds();//Last User Key Input Timestamp
         static bool StandbyOn = false;//TestComment
-        static string WindowName = "Strawberry!";
+        static string WindowName = "Strawberry!";//Second test comment
         static void Main()
         {
             Console.OutputEncoding = System.Text.Encoding.Unicode;
